@@ -66,6 +66,9 @@ function App() {
                     })}
                 </article>
             </div>
+            <button type="button" className="btn">
+                more info
+            </button>
         </section>
     );
 }
